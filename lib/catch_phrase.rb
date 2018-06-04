@@ -1,4 +1,4 @@
 def catch_phrase
-  phrase = "Howdy!"
+  phrase = "It's-a me, Mario!"
   puts phrase
 end
